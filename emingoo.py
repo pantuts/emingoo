@@ -3,7 +3,6 @@
 # Name: emingoo.py
 # Version: 1.0
 # Author: pantuts
-# Email: contact@pantuts.com
 # Description: Extract emails from Google search results.
 # Agreement: You can use, modify, or redistribute this tool under the terms of GNU General Public License (GPLv3).
 # This tool is for educational purposes only. Any damage you make will not affect the author.
